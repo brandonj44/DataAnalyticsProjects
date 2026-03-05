@@ -1,7 +1,7 @@
 Tableau Presentations:
 
 
-                                        Hospital Re-Admission Rate Compared with Local Pollutant Rates
+  Hospital Re-Admission Rate Compared with Local Pollutant Rates
 Introduction to Readmission Problem:
 
 Link to Tableau Public: https://public.tableau.com/views/HospitalReAdmissionRatebyRegionalPollutantsAnalysis_17725543199720/HospitalReAdmissionRatebyRegionalPollutantAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
