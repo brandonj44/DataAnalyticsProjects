@@ -1,5 +1,6 @@
 # Hospital ReAdmission Rate By Local Pollutant Levels
 All of these dashboards are fully interactive, any shown filters on all selected parameters are included and adjustable by any user. 
+Anyone interested is invited to explore and build off this analysis! Awareness saves lives :)
 
 **Introduction to ReAdmission Problem:**
 
