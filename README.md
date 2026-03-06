@@ -7,13 +7,13 @@ Anyone interested is invited to explore and build off this analysis! Awareness s
 
 Tableau Public: https://public.tableau.com/views/HospitalReAdmissionRatebyRegionalPollutantsAnalysis_17725543199720/HospitalReAdmissionRatebyRegionalPollutantAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-This dashboard visually introduces two concepts – Patients who are in the hospital longer are at much higher risk of re-admission, and the introduction of many new pollutants at increasing levels in our environment over the last 50 years.
+This dashboard visually introduces two concepts: Patients who are in the hospital longer are at much higher risk of re-admission, and the introduction of many new pollutants at increasing levels in our environment over the last 50 years.
 
 <img width="1920" height="1080" alt="Intro to ReAdmis" src="https://github.com/user-attachments/assets/a72cd4f5-1462-44c2-964b-eeb235ec8325" />
 
 **Pollutant and & Re-Admission Maps:**
 
-Tableau Public:https://public.tableau.com/shared/WC8NG6Q28?:display_count=n&:origin=viz_share_link 
+Tableau Public: https://public.tableau.com/shared/WC8NG6Q28?:display_count=n&:origin=viz_share_link 
 
 This Dashboard showcases two maps: Re-admission percentage by county and pollutant measurements by county. This is intended to be a functioning tool allowing users to visually correlate hospital re-admission rates with regional pollutant levels. 
 
@@ -31,7 +31,7 @@ Tableau Public: https://public.tableau.com/shared/DRHBQXK72?:display_count=n&:or
 # Respiratory Disease as Cause of Death Rate by Ammonium Levels Analysis
 **Introduction to Respiratory Problem:**
 
-This dashboard is designed to introduce users to two trends- First, there is a significant discrepancy in respiratory disease death rates based on state location. Second, Ammonium levels in the environment have significantly increased over the last 50 years. 
+This dashboard is designed to introduce users to two trends: First, there is a significant discrepancy in respiratory disease death rates based on state location. Second, Ammonium levels in the environment have significantly increased over the last 50 years. 
 
 Tableau Public: https://public.tableau.com/shared/WCG4GYP5W?:display_count=n&:origin=viz_share_link 
 
