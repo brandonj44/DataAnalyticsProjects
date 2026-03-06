@@ -27,16 +27,16 @@ Tableau Public: https://public.tableau.com/shared/DRHBQXK72?:display_count=n&:or
 <img width="1920" height="1080" alt="PollutantsStateBar" src="https://github.com/user-attachments/assets/74ef48a6-8208-4bd5-8ca4-c126f0930835" />
 
 
-# Respiratory Disease as Cause of Death Rate by Ammonium Measurement Analysis
+# Respiratory Disease as Cause of Death Rate by Ammonium Levels Analysis
 **Introduction to Respiratory Problem:**
 
-This dashboard is designed to introduce users to two trends- First, there is a significant discrepancy in Respiratory Disease death rates based on state location. Second, Ammonium levels in the environment have significantly increased over the last 50 years. 
+This dashboard is designed to introduce users to two trends- First, there is a significant discrepancy in respiratory disease death rates based on state location. Second, Ammonium levels in the environment have significantly increased over the last 50 years. 
 
 Tableau Public: https://public.tableau.com/shared/WCG4GYP5W?:display_count=n&:origin=viz_share_link 
 
 <img width="1920" height="1080" alt="DB1" src="https://github.com/user-attachments/assets/b217d50f-a3ec-4aec-a9ea-769259391c37" />
 
-**Respiratory Disease Rate by Ammonium Reading Maps:**
+**Respiratory Disease Rate by Ammonium Levels Maps:**
 
 This dashboard is designed to allow for visual comparison between state level respiratory rate and county level pollutant measurements. This allows visual correlation between pollutant level and respiratory disease rate.
 
@@ -45,7 +45,7 @@ Tableau Public: https://public.tableau.com/shared/26MPJDQP4?:display_count=n&:or
 <img width="1920" height="1080" alt="DB2" src="https://github.com/user-attachments/assets/59866e5f-2af4-40eb-921a-538c416d8d6f" />
 
 
-**Respiratory Disease Rate by Ammonium Reading bar charts:**
+**Respiratory Disease Rate by Ammonium Levels bar charts:**
 
 This visualization is designed to allow users to either view states which contain the same pollutants, or a pollutant measurement breakdown by state.
 
@@ -54,7 +54,7 @@ Tableau Public: https://public.tableau.com/shared/BQ6PZ6XZ8?:display_count=n&:or
 <img width="1920" height="1080" alt="DB3" src="https://github.com/user-attachments/assets/f6700b48-547b-473e-975b-2d50dbc4435a" />
 
 
-**Respiratory Disease Rate by Ammonium Reading - Ordinary Least Squares Linear Regression:**
+**Respiratory Disease Rate by Ammonium Levels - Ordinary Least Squares Linear Regression:**
 
 This dashboard presents a Linear Regression Model illustrating the relationship between Ammonium level and Respiratory Rate.                           
 
