@@ -1,17 +1,19 @@
-# Hospital Re-Admission Rate Compared with Local Pollutant Rates
-**Introduction to Readmission Problem:**
+# Hospital Re-Admission Rate By Local Pollutant Levels
+All of these dashboards are fully interactive, filters on all selected parameters are included and adjustable by any user. 
+
+**Introduction to Re-admission Problem:**
 
 Link to Tableau Public: https://public.tableau.com/views/HospitalReAdmissionRatebyRegionalPollutantsAnalysis_17725543199720/HospitalReAdmissionRatebyRegionalPollutantAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-This interactive dashboard visually introduces two concepts – Patients who are in the hospital longer are at much higher risk of re-admission, and the introduction of many new pollutants at increasing levels in our environment.
+This dashboard visually introduces two concepts – Patients who are in the hospital longer are at much higher risk of re-admission, and the introduction of many new pollutants at increasing levels in our environment over the last 50 years.
 
 <img width="1920" height="1080" alt="Intro to ReAdmis" src="https://github.com/user-attachments/assets/a72cd4f5-1462-44c2-964b-eeb235ec8325" />
 
-**Pollutant and & Readmission Maps:**
+**Pollutant and & Re-admission Maps:**
 
 Link to Tableau Public:https://public.tableau.com/shared/WC8NG6Q28?:display_count=n&:origin=viz_share_link 
 
-This interactive Dashboard includes two maps: Readmission Percentage by state/county, & Pollutants Measurements by state/county. This is intended to be a functioning tool allowing users to compare regional hospital re-admission rates with regional pollutant levels. Higher rates of hospital re-admissions may indicate an unknown cause of symptoms, this map allows users to correlate high re-admission rate areas with locally known pollutants.
+This Dashboard showcases two maps: Re-admission Percentage by county and Pollutant Measurements by county. This is intended to be a functioning tool allowing users to visually correlate hospital re-admission rates with regional pollutant levels. 
 
 <img width="1920" height="1080" alt="ReAdmisandPollutantMaps" src="https://github.com/user-attachments/assets/2ac5327e-3aab-4967-b044-7ea503b9d092" />
 
@@ -24,8 +26,8 @@ Link to Tableau Public: https://public.tableau.com/shared/DRHBQXK72?:display_cou
 <img width="1920" height="1080" alt="PollutantsStateBar" src="https://github.com/user-attachments/assets/74ef48a6-8208-4bd5-8ca4-c126f0930835" />
 
 
-                                Respiratory Disease as Cause of Death Rate by Ammonium Measurement Analysis
-# Introduction to Respiratory Problem:
+# Respiratory Disease as Cause of Death Rate by Ammonium Measurement Analysis
+**Introduction to Respiratory Problem:**
 
 This interactive dashboard is designed to introduce users to two trends- First, there is a significant discrepancy in Respiratory Disease death rates based on state location. Second, Ammonium levels in the environment have significantly increased over the last 50 years. 
 
