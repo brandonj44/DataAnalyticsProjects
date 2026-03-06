@@ -57,7 +57,7 @@ Tableau Public: https://public.tableau.com/shared/BQ6PZ6XZ8?:display_count=n&:or
 
 **Respiratory Disease Rate by Ammonium Levels - Ordinary Least Squares Linear Regression:**
 
-This dashboard presents a linear regression model illustrating the relationship between Ammonium level and respiratory rate.                           
+This dashboard presents a linear regression model illustrating the relationship between ammonium level and respiratory rate.                           
 
 Tableau Public: https://public.tableau.com/shared/PF7JJYHS7?:display_count=n&:origin=viz_share_link 
 
