@@ -1,8 +1,9 @@
 # Hospital ReAdmission Rate By Local Pollutant Levels
-All of these dashboards are fully interactive, any shown filters on all selected parameters are included and adjustable by any user. 
+All dashboards are fully interactive, any shown filters are adjustable by any user. 
+
 Anyone interested is invited to explore and build off this analysis! Awareness saves lives :)
 
-**Introduction to ReAdmission Problem:**
+**Introduction to Re-Admission Problem:**
 
 Tableau Public: https://public.tableau.com/views/HospitalReAdmissionRatebyRegionalPollutantsAnalysis_17725543199720/HospitalReAdmissionRatebyRegionalPollutantAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
@@ -10,11 +11,11 @@ This dashboard visually introduces two concepts – Patients who are in the hosp
 
 <img width="1920" height="1080" alt="Intro to ReAdmis" src="https://github.com/user-attachments/assets/a72cd4f5-1462-44c2-964b-eeb235ec8325" />
 
-**Pollutant and & ReAdmission Maps:**
+**Pollutant and & Re-Admission Maps:**
 
 Tableau Public:https://public.tableau.com/shared/WC8NG6Q28?:display_count=n&:origin=viz_share_link 
 
-This Dashboard showcases two maps: Re-admission Percentage by county and Pollutant Measurements by county. This is intended to be a functioning tool allowing users to visually correlate hospital re-admission rates with regional pollutant levels. 
+This Dashboard showcases two maps: Re-admission percentage by county and pollutant measurements by county. This is intended to be a functioning tool allowing users to visually correlate hospital re-admission rates with regional pollutant levels. 
 
 <img width="1920" height="1080" alt="ReAdmisandPollutantMaps" src="https://github.com/user-attachments/assets/2ac5327e-3aab-4967-b044-7ea503b9d092" />
 
@@ -38,7 +39,7 @@ Tableau Public: https://public.tableau.com/shared/WCG4GYP5W?:display_count=n&:or
 
 **Respiratory Disease Rate by Ammonium Levels Maps:**
 
-This dashboard is designed to allow for visual comparison between state level respiratory rate and county level pollutant measurements. This allows visual correlation between pollutant level and respiratory disease rate.
+This dashboard is designed to allow for visual comparison between state level respiratory rate and county level pollutant measurements. This encourages visual correlation between pollutant level and respiratory disease rate.
 
 Tableau Public: https://public.tableau.com/shared/26MPJDQP4?:display_count=n&:origin=viz_share_link 
 
@@ -47,7 +48,7 @@ Tableau Public: https://public.tableau.com/shared/26MPJDQP4?:display_count=n&:or
 
 **Respiratory Disease Rate by Ammonium Levels bar charts:**
 
-This visualization is designed to allow users to either view states which contain the same pollutants, or a pollutant measurement breakdown by state.
+This visualization is designed to allow users to both view states which contain the same selected pollutants, and a pollutant measurement breakdown by selected state.
 
 Tableau Public: https://public.tableau.com/shared/BQ6PZ6XZ8?:display_count=n&:origin=viz_share_link 
 
@@ -56,7 +57,7 @@ Tableau Public: https://public.tableau.com/shared/BQ6PZ6XZ8?:display_count=n&:or
 
 **Respiratory Disease Rate by Ammonium Levels - Ordinary Least Squares Linear Regression:**
 
-This dashboard presents a Linear Regression Model illustrating the relationship between Ammonium level and Respiratory Rate.                           
+This dashboard presents a linear regression model illustrating the relationship between Ammonium level and respiratory rate.                           
 
 Tableau Public: https://public.tableau.com/shared/PF7JJYHS7?:display_count=n&:origin=viz_share_link 
 
